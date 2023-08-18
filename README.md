@@ -2,7 +2,7 @@
 
 Submitted by: **Roman Petlyak**
 
-**Background Color Changer** is an app that... 
+**Background Color Changer** is an app that 
  Changes the color of the background when a user clicks a button
 
 Time spent: **2** hours spent in total
@@ -18,22 +18,13 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/3OWXU6R' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough](https://imgur.com/a/YYsFrsH)
 
-
-GIF created with ...  
-[Imgur](www.imgur.com)
+GIF created with:  
+[Imgur](https://imgur.com/)
 
 ## App Brainstorming (Step 4)
 
-- Instagram, Reddit, TikTok, Twitter.
-- Auto refresh timeline,
-  user can message each other,
-  share posts with each other,
-  engage with posters by commenting or liking.
-
-
-- App I would like to build
 - Similar to Instagram and Reddit where users post about their hobbies including any ongoing project that people can follow.
 by projects, I mean building a project car or motorcycle and people are able to follow their journey
 Users will be able to create a thread that they can always update about something they are interested in or make a tutorial for DIY jobs, where then people are able to comment or even help
